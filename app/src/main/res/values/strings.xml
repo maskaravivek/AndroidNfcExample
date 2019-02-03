@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Android Nfc Example</string>
+
+    <string name="write_tag">Write Tag</string>
+    <string name="read_tag">Tap NFC tag to read!!</string>
+</resources>
